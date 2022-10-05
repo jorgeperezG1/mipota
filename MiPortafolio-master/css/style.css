@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(56, 219, 219);
+    font-family: 'Times New Roman', Times, serif;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    color: brown;
+}
+ul li {
+    color: cadetblue;
+}
+#contenedor {
+    margin: 0;
+    max-width: 1024px;
+    padding: 0;
+    overflow: auto;
+    text-align: center;
+}
